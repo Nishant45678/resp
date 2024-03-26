@@ -47,7 +47,7 @@ footer{
     font-size: 1.3rem;
 }
 
-@media (max-width: 490px) {
+@media (max-width: 1080px) {
     main{
         flex-direction: column;
     }
